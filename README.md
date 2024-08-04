@@ -1,1 +1,1 @@
-### Olá, eu sou a Bruna Pedroso 🖖
+print("Hello, I am Bruna, a beginner in Python.")
