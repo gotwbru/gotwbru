@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruna and I'm a beginner in the world of programming .🐲🎮</h2>
+<h2 align="left">Hi 👋 I'm Bruna, a developer who turns ideas into functional systems through code, data, and automation 🐲🎮</h2>
 
 ###
 
