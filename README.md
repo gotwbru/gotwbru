@@ -2,14 +2,6 @@
 
 ###
 
- <div>
-   <a href="https://github.com/gotwbru">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gotwbru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotwbru&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-###
-
 <img align="right" height="160" src="https://media.tenor.com/KvbrKEFBVncAAAAM/monseter-hunter.gif"  />
 
 ###
